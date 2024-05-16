@@ -69,7 +69,7 @@
     },
     {
       "key": "*博天堂",
-      "name": "🔞博天堂",
+      "name": "博天堂",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 1,
@@ -78,7 +78,7 @@
     },
     {
       "key": "美少女",
-      "name": "🔞美少女",
+      "name": "美少女",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -87,7 +87,7 @@
     },
     {
       "key": "*淫水机资源",
-      "name": "🔞淫水机",
+      "name": "淫水机",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 1,
@@ -96,7 +96,7 @@
     },
     {
       "key": "*美少女资源",
-      "name": "🔞美少女资源",
+      "name": "美少女资源",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -105,7 +105,7 @@
     },
     {
       "key": "zp024",
-      "name": "🔞BT天堂-伦理",
+      "name": "BT天堂-伦理",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 1,
@@ -114,7 +114,7 @@
     },
     {
       "key": "*KK写真资源",
-      "name": "🔞KK写真资源-伦理",
+      "name": "KK写真资源-伦理",
       "type": 1,
       "api": "https://kkzy.me/api.php/provide/vod/",
       "searchable": 1,
@@ -123,7 +123,7 @@
     },
     {
       "key": "zp059",
-      "name": "🔞番号资源",
+      "name": "番号资源",
       "type": 0,
       "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -132,7 +132,7 @@
     },
     {
       "key": "zp066",
-      "name": "🔞花椒资源",
+      "name": "花椒资源",
       "type": 0,
       "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -141,7 +141,7 @@
     },
     {
       "key": "zp100",
-      "name": "🔞乐播",
+      "name": "乐播",
       "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -150,7 +150,7 @@
     },
     {
       "key": "zp123",
-      "name": "🔞色猫资源（慢）",
+      "name": "色猫资源（慢）",
       "type": 0,
       "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -159,7 +159,7 @@
     },
     {
       "key": "*乐播资源",
-      "name": "🔞乐播资源",
+      "name": "乐播资源",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 1,
@@ -168,7 +168,7 @@
     },
     {
       "key": "zp137",
-      "name": "🔞探探资源（慢）",
+      "name": "探探资源（慢）",
       "type": 0,
       "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
       "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url=",
